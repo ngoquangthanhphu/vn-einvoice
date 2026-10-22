@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HDon>
+  <DLHDon Id="data">
+    <TTChung>
+      <PBan>2.0.1</PBan>
+      <MauSo>1</MauSo>
+      <KHMSHDon>1</KHMSHDon>
+      <KHHDon>C26TAA</KHHDon>
+      <SHDon>00000123</SHDon>
+      <NLap>2026-01-15</NLap>
+      <DVTTe>
+        <Ma>VND</Ma>
+        <Ten>Việt Nam đồng</Ten>
+      </DVTTe>
+      <HTTToan>TM/CK</HTTToan>
+    </TTChung>
+    <NDHDon>
+      <NBan>
+        <Ten>Công ty TNHH Thương mại Mẫu An Phát</Ten>
+        <MST>0100000001</MST>
+        <DChi>Số 1, Đường Mẫu, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh</DChi>
+        <SDThoai>02800000001</SDThoai>
+        <STKNHang>001000000001</STKNHang>
+        <TNHang>Ngân hàng Mẫu</TNHang>
+      </NBan>
+      <NMua>
+        <Ten>Công ty Cổ phần Sản xuất Mẫu Bình Minh</Ten>
+        <MST>0300000002</MST>
+        <DChi>Số 2, Đường Mẫu, Phường Tân Phú, Quận 7, TP. Hồ Chí Minh</DChi>
+        <HVTNMHang>Người Mua Mẫu</HVTNMHang>
+      </NMua>
+      <DSHHDVu>
+        <HHDVu>
+          <TChat>1</TChat>
+          <STT>1</STT>
+          <MHHDVu>SP001</MHHDVu>
+          <THHDVu>Giấy in A4 70gsm</THHDVu>
+          <DVTinh>Ram</DVTinh>
+          <SLuong>20</SLuong>
+          <DGia>50000</DGia>
+          <TLCKhau>0</TLCKhau>
+          <STCKhau>0</STCKhau>
+          <ThTien>1000000</ThTien>
+          <TSuat>10%</TSuat>
+        </HHDVu>
+        <HHDVu>
+          <TChat>1</TChat>
+          <STT>2</STT>
+          <MHHDVu>DV001</MHHDVu>
+          <THHDVu>Dịch vụ giao hàng</THHDVu>
+          <DVTinh>Lần</DVTinh>
+          <SLuong>1</SLuong>
+          <DGia>300000</DGia>
+          <TLCKhau>0</TLCKhau>
+          <STCKhau>0</STCKhau>
+          <ThTien>300000</ThTien>
+          <TSuat>10%</TSuat>
+        </HHDVu>
+      </DSHHDVu>
+      <TToan>
+        <TgTCThue>1300000</TgTCThue>
+        <TgTThue>130000</TgTThue>
+        <TgTTTBSo>1430000</TgTTTBSo>
+        <TgTTTBChu>Một triệu bốn trăm ba mươi nghìn đồng</TgTTTBChu>
+      </TToan>
+    </NDHDon>
+  </DLHDon>
+  <MCCQT Id="data">00A1B2C3D4E5F6A7B8C9D0E1F2A3B4C5</MCCQT>
+</HDon>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HDon>
+  <DLieu>
+    <DLHDon Id="data">
+      <TTChung>
+        <PBan>2.0.1</PBan>
+        <MauSo>1</MauSo>
+        <KHMSHDon>1</KHMSHDon>
+        <KHHDon>C26MAA</KHHDon>
+        <SHDon>00000456</SHDon>
+        <NLap>2026-02-02</NLap>
+        <DVTTe>
+          <Ma>VND</Ma>
+          <Ten>Việt Nam đồng</Ten>
+        </DVTTe>
+        <HTTToan>TM</HTTToan>
+      </TTChung>
+      <NDHDon>
+        <NBan>
+          <Ten>Cửa hàng Mẫu Tiện Lợi</Ten>
+          <MST>0400000003</MST>
+          <DChi>Số 3, Đường Mẫu, Quận Hải Châu, TP. Đà Nẵng</DChi>
+        </NBan>
+        <NMua>
+          <Ten></Ten>
+          <MST></MST>
+          <DChi></DChi>
+        </NMua>
+        <DSHHDVu>
+          <HHDVu>
+            <TChat>1</TChat>
+            <STT>1</STT>
+            <THHDVu>Nước uống đóng chai 500ml</THHDVu>
+            <DVTinh>Chai</DVTinh>
+            <SLuong>90</SLuong>
+            <DGia>6000</DGia>
+            <TLCKhau>0</TLCKhau>
+            <STCKhau>0</STCKhau>
+            <ThTien>540000</ThTien>
+            <TSuat>8%</TSuat>
+          </HHDVu>
+        </DSHHDVu>
+        <TToan>
+          <TgTCThue>540000</TgTCThue>
+          <TgTThue>43200</TgTThue>
+          <TgTTTBSo>583200</TgTTTBSo>
+          <TgTTTBChu>Năm trăm tám mươi ba nghìn hai trăm đồng</TgTTTBChu>
+        </TToan>
+      </NDHDon>
+    </DLHDon>
+  </DLieu>
+  <MCCQT Id="data">00F1E2D3C4B5A69788796A5B4C3D2E1F</MCCQT>
+</HDon>
